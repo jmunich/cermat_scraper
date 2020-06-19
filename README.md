@@ -4,7 +4,7 @@
 ## Please, do not use the data to create 'league tables'
 ## Nepoužívejte prosím tato data k vytváření žebříčků úspěšnosti
 
-The main purpose of these data should be to analyze overal patterns, regional inequalities etc. (more notes on the interpretation of the reported values are at the end of this README. Please, refrain from making inferences about individual schools or using the data to draw conclusions about the quality of education they provide. Most of all, do not create "league tables" (žebříčky úspěšnosti). 
+The main purpose of these data should be to analyze overal patterns, regional inequalities etc. (more notes on the interpretation of the reported values are at the end of this README). Please, refrain from making inferences about individual schools or using the data to draw conclusions about the quality of education they provide. Most of all, do not create "league tables" (žebříčky úspěšnosti). 
 
 "The impact of ‘league tables’ has been evident in:
 
