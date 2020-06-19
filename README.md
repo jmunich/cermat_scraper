@@ -1,5 +1,23 @@
 # SCRAPING CZVV WITH R
 ------
+## Warning
+## Please, do not use the data to create 'league tables'
+## Nepoužívejte prosím tato data k vytváření žebříčků úspěšnosti
+
+The main purpose of these data should be to analyze overal patterns, regional inequalities etc. (more notes on the interpretation of the reported values are at the end of this README. Please, refrain from making inferences about individual schools or using the data to draw conclusions about the quality of education they provide. Most of all, do not create "league tables" (žebříčky úspěšnosti). 
+
+"The impact of ‘league tables’ has been evident in:
+
+• Political and media ‘bashing’ of schools and teachers (see Notes i and ii).
+
+• A test-dominated curriculum (particularly in English, mathematics and science) that has resulted in an over-emphasis (exclusive in some cases) on curriculum content that is to be tested or examined.
+
+• Overt lobbying of the government by principals of non-selective schools to ‘select’ up to twenty per cent of their school enrolments in an attempt to improve their schools’ rankings on the ‘league tables’. This has resulted in a reluctance, and in some cases, direct refusals to enrol ‘low-achievers’. Further, some schools have responded by concentrating their efforts on those students considered capable of improving their average examination and test scores, while giving less attention to those perceived less likely to improve.
+
+• Parents have ‘voted with their feet’ by choosing to enrol their children in schools on the basis of ‘league table’ rankings. In some cases, this has meant changing their former residential locations to those in closer proximity to the chosen schools."
+
+Rowe, K. J. (2000). Assessment, League Tables and School Effectiveness: Consider the Issues and 'Let's Get Real'!. The Journal of Educational Enquiry, 1(1).
+
 ## Introduction
 ------
 The following code can be used to scrape data from CZVV agregated data viewer (https://vysledky.cermat.cz/data/Default.aspx).
